@@ -4,3 +4,5 @@ A few assets in directory is copied from [dotnet-assets].
 - [`folder/binary.wmv`](./folder/binary.wmv) is originally at https://github.com/dotnet/runtime-assets/tree/95277f38e68b66f1b48600d90d456c32c9ae0fa2/src/System.IO.Compression.TestData/ZipTestData/refzipfolders/normal/binary.wmv
 
 [dotnet-assets]: https://github.com/dotnet/runtime-assets
+
+See [`LICENSE-dotnet-assets`](./LICENSE-dotnext-assets), which contains the text from https://github.com/dotnet/runtime-assets/raw/95277f38e68b66f1b48600d90d456c32c9ae0fa2/LICENSE.TXT.
